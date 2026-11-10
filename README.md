@@ -1,5 +1,5 @@
 
-# Hi, I'm Satvik! 👋
+# Hi, I'm Bobbili Sai Satvik! 👋
 
 🎓 Student | Aspiring AI & ML Developer
 
