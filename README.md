@@ -40,4 +40,3 @@ GitHub: [@Satvik489](https://github.com/Satvik489)
 ---
 
 *Learning, building, and improving one project at a time.*
-1
